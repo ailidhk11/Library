@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Book
+comment0.text=\n\ A\ class\ representing\ a\ physical\ book\ that\ can\ be\ borrowed\ by\ a\ member\ of\ the\ library.\n\n\ @author\ Ailidh\n\ @version\ 1.0\n
+comment1.params=author\ title\ damagesToRecord
+comment1.target=Book(java.lang.String,\ java.lang.String,\ java.lang.String)
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ Book.\n\ @param\ author\ The\ book's\ author.\n\ @param\ title\ The\ book's\ title.\n\n
+numComments=2

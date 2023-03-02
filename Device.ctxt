@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=Device
+comment0.text=\n\ A\ class\ representing\ a\ device\ available\ in\n\ the\ library\ to\ view\ electronic\ resources.\ \n\ \n\ \n\ @author\ Ailidh\n\ @version\ 1.0\n
+comment1.params=type\ location
+comment1.target=Device(java.lang.String,\ java.lang.String)
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ Device\n\ @param\ type\ The\ device\ type.\n\ @param\ location\ The\ device\ location.\n
+comment2.params=newDeviceType
+comment2.target=void\ setType(java.lang.String)
+comment2.text=\n\ Set\ the\ device\ type.\n\ @param\ The\ type\ of\ the\ device.\n
+comment3.params=
+comment3.target=java.lang.String\ getType()
+comment3.text=\n\ Get\ the\ type\ of\ the\ device.\n\ @return\ The\ device\ type.\n
+comment4.params=location
+comment4.target=void\ setLocation(java.lang.String)
+comment4.text=\n\ Set\ the\ location\ of\ the\ device.\n\ @param\ location\ The\ device's\ location.\n
+comment5.params=
+comment5.target=java.lang.String\ getLocation()
+comment5.text=\n\ Get\ the\ location\ of\ the\ device.\n\ @return\ The\ device's\ location.\n
+comment6.params=
+comment6.target=boolean\ isCurrentlyAvailable()
+comment6.text=\n\ Check\ if\ the\ device\ is\ currently\ available.\n\ @return\ True\ if\ available,\ otherwise\ false.\n
+comment7.params=
+comment7.target=void\ printDeviceDetails()
+comment7.text=\n\ Print\ the\ details\ of\ the\ device.\ \n
+numComments=8

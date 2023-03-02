@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=ElectronicResource
+comment0.text=\n\ A\ class\ to\ represent\ electronic\ resources\ available\ in\ a\ library.\n\n\ @author\ Ailidh\n\ @version\ 1.0\n
+comment1.params=author\ title
+comment1.target=ElectronicResource(java.lang.String,\ java.lang.String)
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ ElectronicResource\n\ @param\ author\ The\ resource's\ author.\ \n\ @param\ title\ The\ resource's\ title.\n\ \n
+comment2.params=newDevice
+comment2.target=void\ addDevice(Device)
+comment2.text=\n\ Add\ a\ new\ device\ that\ you\ can\ access\ this\ resource\ on.\n\ @param\ newDevice\ The\ device\ to\ add\ to\ ArrayList\ devices.\n
+comment3.params=
+comment3.target=java.util.ArrayList\ getDevices()
+comment3.text=\n\ Get\ the\ curent\ devices\ available\ to\ use\ to\ access\ this\ resource.\n\ @return\ The\ devices\ ArrayList\ showing\ devices\ available\ to\ access\ this\ resource.\n
+comment4.params=
+comment4.target=void\ printDeviceDetails()
+numComments=5
